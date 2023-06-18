@@ -1,5 +1,5 @@
 ### Hi there 👋
-I m Devansh Rathod I m crazy and meri aabhi aabhi ek back aayi h
+I m Devansh Rathod.
 <!--
 **dr-sync/dr-sync** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
