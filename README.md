@@ -1,6 +1,5 @@
 ### Hello There👋
-Trying to conquer
-Feeling The Grind
+TRYING TO CONQUER...FEELLING THE GRIND...CLAIMING THE ARENA MASTER
 <!--
 **dr-sync/dr-sync** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
