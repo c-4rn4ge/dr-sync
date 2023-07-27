@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
 <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=dil_da_ni_mada&theme=github_dark&force_username=true&border_color=404040" alt="Yash Tariyal Codeforces Stats"/>
 </a>
 <a href="https://leetcode.com/DeSynchronization/">
-<img height="316" src="https://leetcard.jacoblin.cool/DeSynchronization?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Yash Tariyal Leetcode Stats"/>
+<img height="250" src="https://leetcard.jacoblin.cool/DeSynchronization?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Yash Tariyal Leetcode Stats"/>
 </a>
 </span>
 
@@ -92,25 +92,13 @@ You can click the Preview link to take a look at your changes.
     <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime%20Text-302E31?logo=sublime-text&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
-  
- 
-## 📫Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/yash-tariyal/" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="https://twitter.com/tariyalji"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href="mailto:yashtariyal4@gmail.com"><img title="Email" src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a> 
-<a href = "https://www.instagram.com/_yash_tariyal_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-[![@yashtariyal's Holopin board](https://holopin.io/api/user/board?user=yashtariyal)](https://holopin.io/@yashtariyal)
-</p>
-   
+    
 ## 🔥 Streak Stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yash's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YashTariyal&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Devansh's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dr-sync&theme=monokai-metallian&hide_border=true"/>
   </a>
   <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
