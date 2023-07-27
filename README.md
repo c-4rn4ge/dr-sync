@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://codeforces.com/profile/dil_da_ni_mada">
 <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=dil_da_ni_mada&theme=github_dark&force_username=true&border_color=404040" alt="Yash Tariyal Codeforces Stats"/>
 </a>
-<a href="https://leetcode.com/dil_da_ni_mada">
+<a href="https://leetcode.com/DeSynchronization/">
 <img height="316" src="https://leetcard.jacoblin.cool/dil_da_ni_mada?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Yash Tariyal Leetcode Stats"/>
 </a>
 </span>
