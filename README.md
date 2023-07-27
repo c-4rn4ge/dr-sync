@@ -43,11 +43,8 @@ You can click the Preview link to take a look at your changes.
 
 ### 👨‍💻 Programming Profiles
 <span>
-<a href="https://codeforces.com/profile/dil_da_ni_mada">
-<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=dil_da_ni_mada&theme=github_dark&force_username=true&border_color=404040" alt="Yash Tariyal Codeforces Stats"/>
-</a>
 <a href="https://leetcode.com/DeSynchronization/">
-<img height="250" src="https://leetcard.jacoblin.cool/DeSynchronization?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Yash Tariyal Leetcode Stats"/>
+<img height="250" width= "1250"src="https://leetcard.jacoblin.cool/DeSynchronization?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Yash Tariyal Leetcode Stats"/>
 </a>
 </span>
 
@@ -104,27 +101,11 @@ You can click the Preview link to take a look at your changes.
 </p>
 ## 📈 GitHub Statistics
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashTariyal&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default)                                           ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YashTariyal&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dr-sync&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default)                                           ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dr-sync&theme=default)
  
-[![Yash's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YashTariyal&theme=radical)](https://github.com/YashTariyal/github-readme-activity-graph)
+[![Yash's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dr-sync&theme=radical)](https://github.com/dr-sync/github-readme-activity-graph)
 
 ## 📈 Graph
 <p align="center">
    <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
 </p>
-
-## 🔥 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=YashTariyal)](https://github.com/YashTariyal/github-profile-trophy)
-
-## 👀 Profile views
-
-![Visitor Count](https://profile-counter.glitch.me/{YashTariyal}/count.svg) 
-
-## 👀 Code Time
-
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C178%20hrs%2041%20mins-blue)
-
-## 👀 Lines of Code
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.7%20million%20lines%20of%20code-blue)
- 
