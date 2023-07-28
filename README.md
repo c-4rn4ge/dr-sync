@@ -103,8 +103,6 @@ You can click the Preview link to take a look at your changes.
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dr-sync&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dr-sync)                                           ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dr-sync&theme=default)
  
-[![Devansh's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=dr-sync&theme=radical)](https://github.com/dr-sync/github-readme-activity-graph)
-
 ## 📈 Graph
 <p align="center">
    <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
