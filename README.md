@@ -107,3 +107,4 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
    <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
 </p>
+![Profile views](https://gpvc.arturio.dev/dr-sync)</br>
