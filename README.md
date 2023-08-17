@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 ### 👨‍💻 Programming Profiles
 <span>
 <a href="https://leetcode.com/DeSynchronization/">
-<img height="1000" width= "1000"src="https://leetcard.jacoblin.cool/DeSynchronization?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Devansh's Leetcode Stats"/>
+<img height="500" width= "1000"src="https://leetcard.jacoblin.cool/DeSynchronization?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Devansh's Leetcode Stats"/>
 </a>
 </span>
 
